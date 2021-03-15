@@ -6,5 +6,5 @@ In this project, I learned a simple pipeline for creating a game with levels and
 Screenshots:
 
 ![Glitch_Screen1](https://github.com/davin41k/Glitch-Garden/blob/master/Screenshots/Screen_GleechGarden_1.jpg)
-![Glitch_Screen2](https://github.com/davin41k/Glitch-Garden/blob/master/Screenshots/Screen_GleechGarden_1.jpg)
+![Glitch_Screen2](https://github.com/davin41k/Glitch-Garden/blob/master/Screenshots/Screen_GleechGarden_2.jpg)
 ![Glitch_Screen3](https://github.com/davin41k/Glitch-Garden/blob/master/Screenshots/Screen_GleechGarden_3.jpg)
